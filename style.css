@@ -5,3 +5,15 @@ body {
 canvas {
     display: block;
 }
+
+#infoOverlay {
+    top: 20%;
+    left: 30%;
+    position: fixed;
+   background-color: white;
+   width: 300px;
+   padding: 20px;
+   border-radius: 10px;
+   text-align: center;
+   display: none;
+}
